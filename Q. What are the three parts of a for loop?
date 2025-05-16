@@ -1,0 +1,11 @@
+Q. What are the three parts of a for loop?
+A. Initialization — sets the starting point
+   Example: let i = 0
+   Condition — the loop runs while this is true
+    Example: i < 5
+    Update — changes the variable after each iteration
+    Example: i++
+
+  // for (let i = 0; i < 5; i++) {
+  // console.log(i);
+  //}
