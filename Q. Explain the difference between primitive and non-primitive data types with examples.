@@ -1,0 +1,14 @@
+Q.Explain the difference between primitive and non-primitive data types with examples.
+A. When you declare a primitive with const, the variable can’t be reassigned, but the value itself (like a number or string) is inherently immutable anyway,
+Arrays and objects can be declared with const but their contents can still change.
+   // Primitive
+   //  let num = 10;
+   // num = 20;
+           // reassignment changes the value, but original value 10 can't be changed
+
+  // Non-Primitive (Array)
+  // let arr = [1, 2, 3];
+  // arr.push(4);  // array contents changed, no reassignment needed
+  //   console.log(arr); 
+      // [1, 2, 3, 4]
+
