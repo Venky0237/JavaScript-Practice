@@ -1,0 +1,4 @@
+Q. What is the output of typeof "Hello"?
+A. String
+
+//console.log(typeof("Hello"))
