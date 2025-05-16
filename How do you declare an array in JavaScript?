@@ -1,0 +1,2 @@
+Q.  How do you declare an array in JavaScript?
+A.let array_name = [item1, item2, item3];
