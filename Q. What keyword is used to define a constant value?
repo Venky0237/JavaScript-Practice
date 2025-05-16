@@ -1,0 +1,4 @@
+Q. What keyword is used to define a constant value?
+A. const
+
+const IP = 3.14
