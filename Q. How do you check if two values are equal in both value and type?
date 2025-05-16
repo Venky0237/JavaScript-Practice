@@ -1,0 +1,6 @@
+Q. How do you check if two values are equal in both value and type?
+A. ===
+
+
+// 5 === 5       true (same value and type)
+// 5 === "5"     false (different types)
