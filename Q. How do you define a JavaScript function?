@@ -1,0 +1,6 @@
+Q. How do you define a JavaScript function?
+
+A. function name() {
+  // function body
+  console.log("Hello!");
+}
