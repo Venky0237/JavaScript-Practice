@@ -1,0 +1,4 @@
+Q. What does typeof null return?
+ A. object
+    //console.log(typeof null); // "object"
+  but Null is not a object.
