@@ -1,0 +1,4 @@
+Q. What will 10 == "10" return?
+A. true
+
+// console.log(10 == "10")
