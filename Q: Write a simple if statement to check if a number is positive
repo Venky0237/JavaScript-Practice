@@ -1,0 +1,5 @@
+Q: Write a simple if statement to check if a number is positive
+ A: let a = 5;
+if( a > 0 ) {
+  console.log("positive")
+}
