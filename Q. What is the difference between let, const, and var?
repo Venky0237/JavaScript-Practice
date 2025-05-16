@@ -1,0 +1,9 @@
+Q. What is the difference between let, const, and var?
+A : const: used to initialize constant values,
+           Const cannot be reassigned
+
+var: used to initialize variables
+     var can be both reassigned and redeclared
+
+let: used to initialize variables (this is a new method of initialization)
+     let can be reassigned but not redeclared in the same scope
