@@ -1,0 +1,14 @@
+Q. How do you check if a variable is undefined?
+A. let a;
+  console.log(a);
+
+   If you declare a variable but do not assign any value, its value is undefined.
+   So, console.log(a) will print undefined.
+
+  
+
+
+How to check if a variable is undefined explicitly:
+//   if (a === undefined) {
+//   console.log("a is undefined");
+//   }
