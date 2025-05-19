@@ -1,0 +1,9 @@
+Q. Write a program that prints "Even" if a number is even, otherwise "Odd".
+A. 
+let a = 7;
+if( a % 2 == 0 ) {
+  console.log("Even");
+  
+} else {
+  console.log("Odd");
+}
