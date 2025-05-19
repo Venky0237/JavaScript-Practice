@@ -1,0 +1,12 @@
+Q. What is the output of:
+
+const x = null ?? "default";
+
+A. default
+when this comes '??' => first it checks the left-hand side value is either null or undefined.
+
+-> If yes, it returns the right-hand side value.
+
+-> If no (i.e., the value is anything else like 0, false, ""), it returns the left-hand side value.
+
+
