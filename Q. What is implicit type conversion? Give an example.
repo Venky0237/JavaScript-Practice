@@ -1,0 +1,10 @@
+Q. What is implicit type conversion? Give an example.
+
+A. Implicit type conversion, also called type coercion, JavaScript converts one data type to another during operations.
+   let result = "7" + 3;
+   console.log(result); // output : 73
+  "7" is a string
+   3 is a number
+   JavaScript sees a string + number, so it converts the number to a string
+
+          Result: "7" + "3" → "73" (string)
