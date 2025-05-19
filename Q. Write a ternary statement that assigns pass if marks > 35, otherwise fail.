@@ -1,0 +1,8 @@
+Q. Write a ternary statement that assigns pass if marks > 35, otherwise fail.
+A. let marks = 40;
+   let result = marks > 35 ? "pass" : "fail";
+   console.log(result); // Output: pass
+
+    marks > 35 → this is the condition.
+    If true → "pass" is assigned.
+   If false → "fail" is assigned.
