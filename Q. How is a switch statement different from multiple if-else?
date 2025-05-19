@@ -1,0 +1,5 @@
+Q. How is a switch statement different from multiple if-else?
+A. Use **if-else** when conditions are complex (ranges, multiple variables).
+   Use **switch** when checking a single value against many possible fixed values.
+
+
