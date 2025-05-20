@@ -1,0 +1,6 @@
+Q. What is the result of:
+
+    console.log(1 + true);
+A. 2
+   number + boolean ( true = 1 ; false = 0)  
+      so 1 + true ( 1 ) => 2
