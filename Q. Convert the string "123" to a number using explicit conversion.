@@ -1,0 +1,6 @@
+Q. Convert the string "123" to a number using explicit conversion.
+
+A. let str = "123";
+let num = Number(str);
+console.log(num)
+   using Number()
